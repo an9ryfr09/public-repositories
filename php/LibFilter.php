@@ -5,7 +5,7 @@
  * @package LibFilter.php
  * @version v1.0
  */
-class LibFilter{
+class Filter{
 
 	/**
 	 * @const int FILTER_BOTH_SPACE
